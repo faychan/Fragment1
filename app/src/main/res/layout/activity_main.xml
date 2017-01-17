@@ -14,15 +14,15 @@
     <fragment
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:name="id.sch.smktelkom_mlg.learn.fragment1.InputFragment"
-        android:id="@+id/fragmentInput"
-        tools:layout="@layout/fragment_input"/>
+        android:name="id.sch.smktelkom_mlg.learn.fragment1.OutputFragment"
+        android:id="@+id/fragmentOutput"
+        tools:layout="@layout/fragment_output"/>
 
     <fragment
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:name="id.sch.smktelkom_mlg.learn.fragment1.OutputFragment"
-        android:id="@+id/fragmentOutput"
-        tools:layout="@layout/fragment_output"/>
+        android:name="id.sch.smktelkom_mlg.learn.fragment1.InputFragment"
+        android:id="@+id/fragmentInput"
+        tools:layout="@layout/fragment_input"/>
 
 </LinearLayout>
